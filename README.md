@@ -5,6 +5,8 @@ This setup will include:
 * vitest, jsdom, @testing-library
 * react-router
 
+## Steps
+
 * [X] Generate Vite + TypeScript App
 * [X] Setup eslint + typescript + prettier
 * [X] Setup vitest, jsdom, @testing-library
