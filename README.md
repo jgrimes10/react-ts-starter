@@ -1,9 +1,9 @@
 # vite + React + TypeScript Setup
 
 This setup will include:
-* eslint, eslint-airbnb-config, prettier
-* vitest, jsdom, @testing-library
-* react-router
+* [eslint](https://eslint.org/), [eslint-airbnb-config](https://www.npmjs.com/package/eslint-config-airbnb), [prettier](https://prettier.io/)
+* [vitest](https://vitest.dev/), [jsdom](https://github.com/jsdom/jsdom), [@testing-library](https://testing-library.com/)
+* [react-router](https://reactrouter.com/en/main)
 
 ## Steps
 
@@ -15,4 +15,5 @@ This setup will include:
 
 ## References
 * [Testing Library Guiding Principles](https://testing-library.com/docs/guiding-principles/)
+* [Testing Library Queries](https://testing-library.com/docs/queries/about/#priority)
 * [Common Mistakes with React Testing Library](https://kentcdodds.com/blog/common-mistakes-with-react-testing-library)
