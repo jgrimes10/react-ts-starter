@@ -1,4 +1,4 @@
-# vite + React + TypeScript Setup
+# [vite](https://vitejs.dev/) + [React](https://react.dev/) + [TypeScript Setup](https://www.typescriptlang.org/)
 
 This setup will include:
 * [eslint](https://eslint.org/), [eslint-airbnb-config](https://www.npmjs.com/package/eslint-config-airbnb), [prettier](https://prettier.io/)
